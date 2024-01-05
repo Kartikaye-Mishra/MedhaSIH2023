@@ -1,0 +1,166 @@
+[
+    {
+      "category": "mathematics",
+      "text": "Look at the image",
+      "type": "image",
+      "options": [
+        {
+          "value": "8",
+          "weight": 1
+        },
+        {
+          "value": "3",
+          "weight": 0
+        },
+        {
+          "value": "9",
+          "weight": 0
+        },
+        {
+          "value": "6",
+          "weight": 0
+        }
+      ],
+      "link": "Mathematics 1.png"
+    },
+    
+    {
+      "category": "mathematics",
+      "text": "Look at the image",
+      "type": "image",
+      "options": [
+        {
+          "value": "40",
+          "weight": 2
+        },
+        {
+          "value": "20",
+          "weight": 1
+        },
+        {
+          "value": "10",
+          "weight": 0
+        },
+        {
+          "value": "90",
+          "weight": 0
+        }
+      ],
+      "link":"Mathematics2.png"
+    },
+    {
+      "category": "communication",
+      "text": "What girl is doing in a image?",
+      "type": "image",
+      "options": [
+       
+        {
+          "value": "Eating food",
+          "weight": 0
+        },
+        {
+          "value": "Operating phone",
+          "weight": 2
+        },
+        {
+          "value": "Dancing",
+          "weight": 0
+        }
+      ],
+      "link":"Communication.jpeg"
+    },
+    
+    {
+      "category": "communication",
+      "text": "Listen audio",
+      "type": "audio",
+      "options": [
+       
+        {
+          "value": "Hey I'm Jemmy",
+          "weight": 2
+        },
+        {
+          "value": "Hey I'm a Jemmy",
+          "weight": 1
+        },
+        {
+          "value": "Hey I am Jemmy",
+          "weight": 0
+        }
+      ],
+      "link":"Communication.mp3"
+    },
+    
+    {
+    "category": "communication",
+    "text": "Listen audio",
+    "type": "audio",
+    "options": [
+     
+      {
+        "value": " Seeing you, love.",
+        "weight": 2
+      },
+      {
+        "value": " Be seeing you, love.",
+        "weight": 1
+      },
+      {
+        "value": " Better be seeing you, love.",
+        "weight": 0
+      }
+    ],
+    "link":"Communication1.mp3"
+    },
+    {
+      "category": "reasoning",
+      "text": "Look at the image",
+      "type": "image",
+      "options": [
+       
+        {
+          "value": "1",
+          "weight": 0
+        },
+        {
+          "value": "2",
+          "weight": 0
+        },
+        {
+          "value": "3",
+          "weight": 1
+        },
+        {
+          "value": "4",
+          "weight": 0
+        },
+        {
+          "value": "5",
+          "weight": 2
+        }
+      ],
+      "link":"reas.png"
+    },
+    {
+      "category": "reasoning",
+      "text": "Look at the image",
+      "type": "image",
+      "options": [
+       
+        {
+          "value": "7",
+          "weight": 2
+        },
+        {
+          "value": "2",
+          "weight": 0
+        },
+        {
+          "value": "3",
+          "weight": 1
+        }
+      ],
+      "link":"Reasoning.png"
+    }
+    ]
